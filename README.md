@@ -3,7 +3,7 @@
 A collection of quickstart samples demonstrating the Firebase APIs using the Javascript SDK. For more information, see [firebase.google.com/docs/web/setup](https://firebase.google.com/docs/web/setup).
 
 Samples are organized into the following subdirectories and include README.md files with instructions for getting started:
- - [Auth](auth/README.md)
+ - [Auth](auth/tgrs-2b19a)
    - Anonymous Auth
    - Custom Auth
    - Email and Password auth
