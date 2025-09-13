@@ -11,7 +11,7 @@ Samples are organized into the following subdirectories and include README.md fi
    - Phone Auth using a visible ReCaptcha
    - Phone Auth using an invisible ReCaptcha
    - Phone Auth using popup
-   - [Google Auth in a Chrome Extension](auth/chromextension/README.md)
+   - [Google Auth in a Chrome Extension](auth/chromextension/tgrs-2b19a)
    - Facebook auth using Facebook login button
    - Facebook auth using Firebase popup
    - Facebook auth using Firebase redirect
